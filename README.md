@@ -108,6 +108,7 @@ Mandela Satish, Asutosh Tripathy, Sudanshu Das
 
 This project is inspired by the research work:
 
-[Early Detection of Alzheimer’s Disease Using Deep Learning — IEEE](https://ieeexplore.ieee.org/document/11042284)
+[Chronic Kidney Disease Prediction Using Machine Learning — IEEE](https://ieeexplore.ieee.org/document/11042639)
+
 
 
